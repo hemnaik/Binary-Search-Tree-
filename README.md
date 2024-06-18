@@ -10,3 +10,9 @@
     # Inorder Traversal
     - The procedure of inorder traversal is from Left subtree traversal, then root part and lastly right subtree part.
     - Follows order of Left-Root-Right.
+    # Preorder Traversal
+    - The procedure of preorder traversal is from Root part, then left subtree traversal and lastly right subtree traversal.
+    - Follows order of Root-Left-Right.
+    # Postorder Traversal
+    - The procedure of postorder traversal is from Left, then right subtree traversal and lastly traversing root.
+    - Follows order to Left-Right-Root. 
